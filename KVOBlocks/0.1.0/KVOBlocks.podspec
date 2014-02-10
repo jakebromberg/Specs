@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "KVOBlocks"
-  s.version      = "0.1.0"
+  s.name         = "JBKVOBlocks"
+  s.version      = "1.0.0"
   s.summary      = "Bringing KVO into the modern world by using blocks."
   s.homepage     = "https://github.com/sleroux/KVO-Blocks"
   s.license      = { 
